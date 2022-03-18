@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "clerk-ionic",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

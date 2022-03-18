@@ -1,0 +1,7 @@
+{
+  "name": "clerk-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
